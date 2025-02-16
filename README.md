@@ -4,4 +4,6 @@
 
 Components Required:-
 
+Arduino Uno
+
 ![401588192-80bfd5e1-1787-4e18-9f3c-3c90422a3a15](https://github.com/user-attachments/assets/edf167df-958d-4156-a8d1-c18e3d65c23a)
