@@ -1,6 +1,6 @@
 📡 Radar-Based-Object-Detection-System-using-Arduino
 
-    The Radar-Based Object Detection System is an embedded project that utilizes an ultrasonic sensor and servo motor controlled by an Arduino to detect objects in its vicinity. The system visually represents the detected objects on a Processing IDE radar interface, providing real-time data on distance and angle.
+  The Radar-Based Object Detection System is an embedded project that utilizes an ultrasonic sensor and servo motor controlled by an Arduino to detect objects in its vicinity. The system visually represents the detected objects on a Processing IDE radar interface, providing real-time data on distance and angle.
 
 Components Required:-
 
