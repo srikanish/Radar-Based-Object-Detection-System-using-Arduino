@@ -13,3 +13,12 @@ Jumper Wires
 
 ![401591762-27a8ffb7-d27e-4849-8a54-f99532a5c608](https://github.com/user-attachments/assets/73f54e75-fc92-4ff0-aae5-efe0ae1db8e9)
 
+
+Bread board
+
+Servo motor
+
+Ultrosonic sensor
+
+
+
