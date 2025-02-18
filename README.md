@@ -12,7 +12,7 @@ Jumper Wires
 ![401591762-27a8ffb7-d27e-4849-8a54-f99532a5c608](https://github.com/user-attachments/assets/73f54e75-fc92-4ff0-aae5-efe0ae1db8e9)
 
 Bread board
-
+![Image](https://github.com/user-attachments/assets/4aaf892e-9086-4b73-8a91-fc246063035a)
 Servo motor
 
 Ultrosonic sensor
